@@ -5,4 +5,5 @@ while s != 1:
         s = s / 2
     else:
         s = ((s * 3) + 1) / 2
-    print("fuck your self", int(s), end=" ")
+    print(int(s), end=" ")
+print("maza faka")
