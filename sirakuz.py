@@ -6,4 +6,3 @@ while s != 1:
     else:
         s = ((s * 3) + 1) / 2
     print(int(s), end=" ")
-print("maza faka")
